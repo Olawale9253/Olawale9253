@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/olawale92533" target="blank"><img src="https://img.shields.io/twitter/follow/olawale92533?logo=twitter&style=for-the-badge" alt="olawale92533" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce Website](https://github.com/Olawale9253/FormPage)
-
 - 🌱 I’m currently seeking for an Internship Opportunity **Junior Java Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Olawale9253/](https://github.com/Olawale9253/)
