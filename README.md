@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Spring Framework, PostgreSQL, Docker, HTML and CSS**
 
-- 📫 How to reach me **taofeekolawale159@gmail.com** Or on 2347017784572 Whatsapp only
+- 📫 How to reach me **taofeekolawale159@gmail.com** Or on 2347017784572 Whatsapp only.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
