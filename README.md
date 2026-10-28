@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taofeek Olawale</h1>
-<h3 align="center">Enthusiastic Software Developer with a strong foundation in Java programming and a passion for creating robust and innovative software solutions. Graduated with a [Advanced Diploma In Software Engineering], I'm eager to contribute my energy, creativity, and commitment to excellence to dynamic development teams.</h3>
+<h3 align="center">Enthusiastic Software Engineer with a strong foundation in Java programming and a passion for creating robust and innovative software solutions. Graduated with a [Advanced Diploma In Software Engineering], I'm eager to contribute my energy, creativity, and commitment to excellence to dynamic development teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olawale9253&label=Profile%20views&color=0e75b6&style=flat" alt="olawale9253" /> </p>
 
